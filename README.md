@@ -16,6 +16,6 @@ arrow
 
 Modifications Needed:
 Currently watching surf conditions to ensure 'Rating Metric' is justified and accurate.
-Automatic sending of tweets
-Specify time to send updates
-Allow auto-update of date 
+Automatic sending of tweets.
+Specify time to send updates.
+Allow auto-update of date.
