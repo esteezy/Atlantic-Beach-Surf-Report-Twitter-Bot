@@ -33,7 +33,7 @@ def getJSONResponse():
         'end': start.shift(days=1).to('UTC').timestamp,
       },
       headers={
-        'Authorization': 'ac866592-9283-11ea-84c3-0242ac130002-ac86666e-9283-11ea-84c3-0242ac130002'
+        'Authorization': '*******'
       },
       data={
         'key': 'value'
