@@ -5,8 +5,8 @@
 Function:
 Daily updates on surf conditions in Atlantic Beach, North Carolina. Updates are in the form of tweets, where each tweet is an hour between 6am and 8pm, inclusive. Surf data was provided by the stormglass.io maritime API, and tweets were sent using the Tweepy API. 
 
-tweepy.org
 https://stormglass.io/
+
 http://www.tweepy.org/
 
 Packages used:
