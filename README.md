@@ -9,13 +9,18 @@ https://stormglass.io/
 
 http://www.tweepy.org/
 
-Packages used:
-tweepy
-requests
-arrow
+Packages used:<br />
+tweepy<br />
+requests<br />
+arrow<br />
+datetime<br />
+
+Executable running in terminal with auto-date feature:
+https://user-images.githubusercontent.com/65209454/81752618-cda32500-947f-11ea-97fb-7356098adbb7.png
+
+Actual Twitter Page:
+
 
 Modifications Needed:
 Currently watching surf conditions to ensure 'Rating Metric' is justified and accurate.
-Automatic sending of tweets.
 Specify time to send updates.
-Allow auto-update of date.
