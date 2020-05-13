@@ -15,7 +15,7 @@ import requests
 import twitterbotdemo
 
 # global
-date = '2020-05-12'
+date = str(datetime.date.today())
 
 # communicate with stormglass.io API
 # *forcast only includes a 7-day report*
