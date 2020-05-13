@@ -18,7 +18,8 @@ datetime<br />
 How projected was automated:<br />
 1. Made python script into an executable<br />
 2. Use cron jobs to schedule when to run executable<br />
-3. crontab -e -> # schedule tweets to send at 5am every day<br />
+3. crontab -e 
+<br /># schedule tweets to send at 5am every day<br />
 0 5 * * * python /Users/evanmason/PycharmProjects/untitled/surfData.py >> ~/Desktop/archive.txt  <br />
 4. Each batch of daily tweets is sent at 5am the day of<br />
 
